@@ -1,7 +1,7 @@
 <h1 align="center">Hi there and welcome to my Github profile.</h1>
 
 I'm **Alexandra Gonçalves**, and if you're here, then you must be interested in what I'm doing codewise.
-Well, I'm currently working on my portfolio and for the past months I've taught myself how to work with React.js and Redux, right after passing my level 5 degree diploma in Mobile and Web Development.
+Well, I'm currently working on my portfolio and for the past months I've taught myself how to work with React.js and Redux, right after my specialization in **PHP** framework **Symfony** and passing my level 5 degree diploma in Mobile and Web Development.
 
 I'm also a designer, photographer and artist, with a level 6 diploma in Fine Arts with specialization in Multimedia.
 
